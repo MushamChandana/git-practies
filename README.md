@@ -1,3 +1,4 @@
 # git tutorial
 git tutorial
-welcome to git tutorial
+
+git detailes will be here
